@@ -1,5 +1,12 @@
 # Adventure Works Sales Analysis Dashboard
 
+The Project Consists Of Two Reports. Those Reports looks like this:
+1. Detailed Dashboard Sales Analysis
+2. Time Series Dashboard Sales Analysis
+
+![Dashboard Preview](https://github.com/AbeshRahman/Sales-Analysis-of-Adventure-Work/blob/main/Time%20Series%20Dashboard%20Sales%20Analysis.png)
+![Dashboard Preview](https://github.com/AbeshRahman/Sales-Analysis-of-Adventure-Work/blob/main/Detailed%20Dashboard%20Sales%20Analysis.png)
+
 ## Project Overview
 This project features an interactive **Sales Analysis Dashboard** built in **Microsoft Excel** using the **Adventure Works dataset**. The primary goal was to transform raw transactional data into a dynamic visual tool that delivers actionable business insights into sales performance, customer segments, and regional trends.
 
@@ -35,9 +42,4 @@ This project was completed as a hands-on learning exercise inspired by industry-
 - Pivot Tables & Pivot Charts
 - Slicers & Timelines
 
-The Project Consists Of Two Reports. Those Reports looks like this:
-1. Detailed Dashboard Sales Analysis
-2. Time Series Dashboard Sales Analysis
 
-![Dashboard Preview](https://github.com/AbeshRahman/Sales-Analysis-of-Adventure-Work/blob/main/Time%20Series%20Dashboard%20Sales%20Analysis.png)
-![Dashboard Preview](https://github.com/AbeshRahman/Sales-Analysis-of-Adventure-Work/blob/main/Detailed%20Dashboard%20Sales%20Analysis.png)
